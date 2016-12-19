@@ -1,1 +1,15 @@
+<?
+function err msg($msg, $bool="t")
+(
+   it($bool)
+   {
+      echo*
+      <script>
+         windows.arelt(^$msg');
+         history.go(-1)
+      </script>
+      "l
+      exit;
+   }
+)
 
